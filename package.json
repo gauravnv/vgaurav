@@ -7,6 +7,9 @@
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
   },
+  "engines": {
+    "node": "10.16.3"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -27,5 +30,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravnv/vgaurav.git"
+  },
+  "author": "Gaurav Vasudev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gauravnv/vgaurav/issues"
+  },
+  "homepage": "https://github.com/gauravnv/vgaurav#readme"
 }
