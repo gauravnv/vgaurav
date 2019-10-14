@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        This is a placeholder website which will be updated soon!
+        <font size="1">This is a placeholder website which will be updated soon!</font>
         <p>
           Hello there, you beautiful human being :)
         </p>
